@@ -8,7 +8,7 @@ import discord
 from discord.ext import commands
 import asyncio
 from discord.utils import get
-TOKEN = 'NDYwNDExNjUyODgyNDMyMDAw.DkjI0Q.7GxoJ_IDBXldPGdm8KXOKHFXJR8'
+TOKEN = 'TOKEN HERE'
 
 def stash(name):
     name=name.replace(' ','+')
